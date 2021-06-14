@@ -1,2 +1,6 @@
 // 尝试在 Dev 上 增加一个文件
-export default JOB = 'engeer'
+export const job = 'engeer'
+
+export const age = "30"
+
+
